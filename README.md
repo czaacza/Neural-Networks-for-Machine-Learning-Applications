@@ -5,4 +5,4 @@ Materials from Neural Networks for Machine Learning Applications course as a par
 https://www.kaggle.com/czaacza/code
 
 ## Colab
-Private Metropolia Google Account
+Private Metropolia Google Account.

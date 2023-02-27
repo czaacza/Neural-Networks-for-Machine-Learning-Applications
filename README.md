@@ -1,5 +1,5 @@
 # Neural-Networks-for-Machine-Learning-Applications
-Materials from Neural Networks for Machine Learning Applications course as a part of Metropolia University of Applied Sciences Health Technology field.
+Materials from Neural Networks for Machine Learning Applications course as a part of Metropolia University of Applied Sciences Health Technology
 
 ## Kaggle
 https://www.kaggle.com/czaacza/code

@@ -33,4 +33,4 @@ https://www.kaggle.com/czaacza/code
 Private Metropolia Google Account
 
 ## Notes
-[Neural networks for Machine Learning course notes](https://well-aphid-173.notion.site/Neural-Networks-for-Machine-Learning-Applications-e0b8d3239ee04516b36e1fe7eaaea004)
+[My Neural Networks for Machine Learning course notes](https://well-aphid-173.notion.site/Neural-Networks-for-Machine-Learning-Applications-e0b8d3239ee04516b36e1fe7eaaea004)

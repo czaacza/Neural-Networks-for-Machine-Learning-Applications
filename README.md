@@ -22,7 +22,7 @@ Creating a convolutional neural network model for Pneumonia classification based
 
 [Case 3. Patient Drug Review](https://github.com/czaacza/Neural-Networks-for-Machine-Learning-Applications/blob/master/Assignments/Assignment%203/case-3-patient-drug-review_4.ipynb)
 
-Building a recurrent neural network for reviews classification.
+Building a recurrent neural network for text-reviews classification. Classifying text-reviews into three categories: negative, neutral and positive. Text-data preprocessing. Tokenization, sequentialization, stemming and lemmatization. Natural language processing. Modeling and training recurrent LSTM and convolutional neural networks. Evaluation and results comparison.
 
 ---
 
